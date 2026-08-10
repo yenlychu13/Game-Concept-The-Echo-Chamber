@@ -1,4 +1,6 @@
-<img width="1408" height="768" alt="Gemini_Generated_Image_c32wr0c32wr0c32w" src="https://github.com/user-attachments/assets/0a4018b1-f239-4e27-850d-cc23f94b18e7" />
+<img width="1408" height="768" alt="the echo chamber" src="https://github.com/user-attachments/assets/dfd28a66-b9f8-4b51-9c4a-2eca22ba9c55" />
+
+
 
 **A First-Person Psychological Thriller & Memory Alteration Simulation**
 
