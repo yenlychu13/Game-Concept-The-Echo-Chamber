@@ -1,3 +1,5 @@
+<img width="3750" height="2654" alt="JPN_Game Concept The Echo Chamber" src="https://github.com/user-attachments/assets/c0505502-86af-4e2a-8c1e-79eb90f2f314" />
+
 # THE ECHO CHAMBER
 
 **A First-Person Psychological Thriller & Memory Alteration Simulation**
