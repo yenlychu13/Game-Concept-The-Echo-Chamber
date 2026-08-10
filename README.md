@@ -158,5 +158,5 @@ graph TD
 
 ## 📜 License
 
-This repository contains creative design materials for the fictional game concept **THE ECHO CHAMBER**. All rights reserved.
+This repository contains creative design materials for the fictional game concept **THE ECHO CHAMBER** by Chu Yen Ly. All rights reserved.
 
