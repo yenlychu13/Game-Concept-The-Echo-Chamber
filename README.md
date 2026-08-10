@@ -13,21 +13,6 @@
 
 ---
 
-## 📋 Table of Contents
-- [Overview](#-overview)
-- [The Core Premise](#-the-core-premise)
-- [Core Gameplay Pillars](#-core-gameplay-pillars)
-  - [1. Isolation](#1-isolation)
-  - [2. Identity & The Memory Loom](#2-identity--the-memory-loom)
-  - [3. Player as Villain](#3-player-as-villain)
-  - [4. The Merging (Narrative Twist)](#4-the-merging-narrative-twist)
-- [The Shift Workflow (Gameplay Loop)](#-the-shift-workflow-gameplay-loop)
-- [Terminal Interface Mockup](#-terminal-interface-mockup)
-- [Audio & Visual Design](#-audio--visual-design)
-- [Project Roadmap](#-project-roadmap)
-
----
-
 ## 👁️ Overview
 
 **THE ECHO CHAMBER** is a claustrophobic first-person psychological thriller and narrative simulation set in the depths of a subterranean re-education complex. 
