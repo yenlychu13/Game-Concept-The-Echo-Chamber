@@ -23,7 +23,6 @@
 - [Terminal Interface Mockup](#-terminal-interface-mockup)
 - [Audio & Visual Design](#-audio--visual-design)
 - [Project Roadmap](#-project-roadmap)
-- [License](#-license)
 
 ---
 
