@@ -142,4 +142,4 @@ graph TD
 
 ## 📜 ライセンス
 
-本リポジトリには、Chu Yen Ly による架空のゲームコンセプト**『THE ECHO CHAMBER』**のクリエイティブデザイン資料が含まれています。無断転載・複製を禁じます。(All rights reserved.)
+本リポジトリには、Chu Yen Ly による架空のゲームコンセプト『THE ECHO CHAMBER』のクリエイティブデザイン資料が含まれています。無断転載・複製を禁じます。(All rights reserved.)
