@@ -1,4 +1,4 @@
-### THE ECHO CHAMBER
+# THE ECHO CHAMBER
 
 **A First-Person Psychological Thriller & Memory Alteration Simulation**
 
