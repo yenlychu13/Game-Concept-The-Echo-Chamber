@@ -30,7 +30,7 @@
 
 **THE ECHO CHAMBER** is a claustrophobic first-person psychological thriller and narrative simulation set in the depths of a subterranean re-education complex. 
 
-Sitting in a dimly lit concrete bunker before a towering wall of flickering CRT monitors, you assume the role of **Dr. Alistair Vance**, the sole night-shift operator tasked with systematically erasing and rewriting the minds of political dissidents.
+Sitting in a dimly lit concrete bunker before a towering wall of flickering CRT monitors, you assume the role of **Dr. Kaito Suzuki**, the sole night-shift operator tasked with systematically erasing and rewriting the minds of political dissidents.
 
 ---
 
