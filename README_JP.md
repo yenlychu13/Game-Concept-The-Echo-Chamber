@@ -1,6 +1,5 @@
 <img width="3750" height="2654" alt="JPN_Game Concept The Echo Chamber" src="https://github.com/user-attachments/assets/2098826f-7570-48bd-9cef-6e7f6d0d50e8" />
 
-# THE ECHO CHAMBER
 **一人称視点 心理サスペンス ＆ 記憶改ざんシミュレーション**
 
 [![ジャンル: 心理サスペンス](https://img.shields.io/badge/%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB-%E5%BF%83%E7%90%86%E3%82%B5%E3%82%B9%E3%83%9A%E3%83%B3%E3%82%B9-8b0000.svg?style=for-the-badge)](#)
