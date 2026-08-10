@@ -1,7 +1,6 @@
 <img width="1408" height="768" alt="the echo chamber" src="https://github.com/user-attachments/assets/dfd28a66-b9f8-4b51-9c4a-2eca22ba9c55" />
 
 
-
 **A First-Person Psychological Thriller & Memory Alteration Simulation**
 
 [![Genre: Psychological Thriller](https://img.shields.io/badge/Genre-Psychological_Thriller-8b0000.svg?style=for-the-badge)](#)
